@@ -1,4 +1,4 @@
-# How to use access and use SlicerMorphCloud
+# How to access and use SlicerMorphCloud
 
 You will need an secure shell (ssh) client on your computer and need to install TurboVNC 3.0 (available freely at https://sourceforge.net/projects/turbovnc/files/) for your operating system. 
 
