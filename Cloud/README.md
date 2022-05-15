@@ -26,7 +26,7 @@ You can two options to bring data in to SMC:
 
 `scp C:/users/murat/Desktop/my.local.file mt9018@smc-1.slicermorph.cloud:/mydata/mt9018/SlicerScenes`
 
-Scp will prompt you to enter your SMC password. After successfully executing the command above, my.local.file on your personal computer’s desktop will be uploaded to your SMC session under the folder /home/docker/mydata/SlicerScenes.
+Scp will prompt you to enter your SMC password. After successfully executing the command above, my.local.file on your personal computer’s desktop will be uploaded to your SMC session under the folder **/home/docker/mydata/SlicerScenes** (in the SMC desktop session).
 
 To move data out of SMC, you can use the same approaches above; i.e. either upload the results to cloud, or use scp. If you choose to use scp, remember to change the order of files when you are exporting data out of SMC. (e.g.,
   
