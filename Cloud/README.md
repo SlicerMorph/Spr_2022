@@ -39,4 +39,4 @@ If you are encountering consistent mouse lags, consider reducing the image quali
 
 In windows/linux, if you hit `F8` (`FN+8` in Mac) in TurboVNC application, you can see all the TurboVNC menu for options and other settings  (see below). 
 
-<img src="./tvnc3.png">
+<img src="./tvnc2.png">
