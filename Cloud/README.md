@@ -10,6 +10,8 @@ Open TurboVNC Viewer and enter the user name and connection address provided to 
 When prompted, type in the SMC password provided. The initial connection may take a minute to establish. You should now see a remote desktop environment
 Click **Applications->Others->Slicer** to start your 3D Slicer program. Slicer comes preinstalled with a number of extensions including SlicerMorph. Should you need any additional extensions, you can use the Extension Manager to install them.
 
+<img src="./tvnc3.png">
+
 ## Keep your datasets under mydata folder
 SMC is built using docker containers. Unless saved in persistent storage, all files created in a docker container are destroyed after the container stops. Thus, it is very important to keep your datasets under the folder designated as **mydata**. This is the only persistent storage on the SMC virtual environment. Data kept elsewhere will be lost after a session is restarted, and **there is no way to recover that**. 
 
