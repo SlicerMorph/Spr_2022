@@ -17,9 +17,9 @@
 ### [SlicerMorphCloud setup instructions.](https://github.com/SlicerMorph/Spr_2022/tree/main/Cloud#readme)
 
 ### SlicerMorph Specific Functionalities for Loading Data and Saving 
-* [ImageStacks](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/ImageStacks/ImageStacks.md)
-* [SkyScanReconImport](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/ImageStacks/ImageStacks.md#skyscanreconimport)
-* [ExportAs](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/ExportAs/ExportAs.md)
+* [ImageStacks](https://github.com/SlicerMorph/Tutorials/tree/main/ImageStacks)
+* [SkyScanReconImport](https://github.com/SlicerMorph/Tutorials/tree/main/SkyscanReconImport)
+* [ExportAs](https://github.com/SlicerMorph/Tutorials/tree/main/ExportAs)
 
 ### [Working with DICOMs](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/DICOM/DICOM.md)
 
