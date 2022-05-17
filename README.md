@@ -18,6 +18,7 @@ For this course, we will be using SlicerMorphCloud. [Please follow these instruc
 **Important Websites:**
 *	[Official SlicerMorph Github repository](https://github.com/SlicerMorph/SlicerMorph)
 *	[Official SlicerMorph Module Documentations](https://github.com/SlicerMorph/SlicerMorph#module-descriptions)
+*	[SlicerMorph YouTube Channel for video tutorials](https://www.youtube.com/channel/UCy3Uz1ikRH1B7WSMfaldcjQ)
 * [Link to submit interesting images. Please know that we might post these on twitter or on our website](https://faculty.washington.edu/maga/data_dropbox/) 
 
 #### Funding acknowledgement
