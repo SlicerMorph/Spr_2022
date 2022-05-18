@@ -12,7 +12,11 @@
 <tbody>
   <tr>
     <td>Session #1   9.30-12.00p</td>
-    <td><b>Introduction - Maga</b><br><br>SlicerMorph and <br>SlicerMorphCloud setup<br>Sample Data<br>Customizations</td>
+    <td><b>Introduction - Maga</b><br><br>
+      SlicerMorph and <br>SlicerMorphCloud setup<br>
+      Sample Data<br>
+      Customizations
+    </td>
     <td><b>Imaging Concepts - Rolfe</B><br><br>
       Volume Rendering<br>
       Animations<br>
@@ -20,6 +24,7 @@
     </td>
     <td><b>GMM #1- Maga</b><br><br>
       Markups review<br>
+      Work on your own 10-11 
       GPA in SlicerMorph<br>
       Plots &amp; 3D visualization<br><br><br>
     </td>
@@ -54,7 +59,7 @@
       PseudoLMGenerator<br> 
       MarkupEditor<br><br>
     </td>
-    <td><b>Putting it all together - Diamond (optional friday?)</b><br>
+    <td><b>Putting it all together - Diamond</b><br>
     </td>
   </tr>
 </tbody>
