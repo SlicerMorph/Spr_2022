@@ -17,6 +17,8 @@ SMC is built using docker containers. Unless saved in persistent storage, all fi
 
 While you are using the SMC desktop session, this persistent folder will show as **/home/docker/mydata** (notice the lack of personalized username). But on the storage volume it is mapped under your individual account (e.g., **/mydata/mt9018**). While these are the same folders, this distinction will be important if you will be using scp to transfer files (step #2 in the next section).  
 
+Some of the sample data that we will use in the workshop can be found at **/home/docker/sample_data**. Note that this is a read-only folder. You can't write anything into it.
+
 ## How to bring data In and Out of SMC?
 
 You can two options to bring data in to SMC:
