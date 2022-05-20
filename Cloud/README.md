@@ -6,7 +6,7 @@ If you do have TurboVNC previously installed on your computer, please uninstall 
 
 <img src="./tvnc1.png">
 
-Open TurboVNC Viewer and enter the user name and connection address provided to you in the form user@address (e.g., `mt9018@smc-1.slicermorph.org`)
+Open TurboVNC Viewer and enter the user name and connection address provided to you in the form user@address (e.g., `mm9018@149.165.155.117`)
 When prompted, type in the SMC password provided. The initial connection may take a minute to establish. You should now see a remote desktop environment
 Click **Applications->Others->Slicer** to start your 3D Slicer program. Slicer comes preinstalled with a number of extensions including SlicerMorph. Should you need any additional extensions, you can use the Extension Manager to install them.
 
