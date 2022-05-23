@@ -19,7 +19,7 @@
 ### SlicerMorph Specific Functionalities for Loading Data and Saving 
 * [ImageStacks](https://github.com/SlicerMorph/Tutorials/blob/main/ImageStacks/README.md)
 * [SkyScanReconImport](https://github.com/SlicerMorph/Tutorials/blob/main/SkyscanReconImport/README.md)
-* [ExportAs](https://github.com/SlicerMorph/Tutorials/blob/main/ExportAs/README.md)
+* [ExportAs -Functionality is the same, interface has changed a bit](https://github.com/SlicerMorph/Tutorials/blob/main/ExportAs/README.md)
 
 ### [Working with DICOMs](https://github.com/SlicerMorph/Spr_2021/blob/main/Day_1/DICOM/DICOM.md)
 
