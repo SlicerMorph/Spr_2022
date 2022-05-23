@@ -18,9 +18,7 @@
       Customizations
     </td>
     <td><b>Imaging Concepts - Rolfe</B><br><br>
-      Volume Rendering<br>
-      Animations<br>
-      Lighting<br>Markups
+      Markups
     </td>
     <td><b>GMM #1- Maga</b><br><br>
       Markups review<br>
@@ -41,7 +39,10 @@
       Models<br>
       CropVolume<br>
       Transform<br>
-      Save/Export As
+      Save/Export As<br>
+      Volume Rendering<br>
+      Animations<br>
+      Lighting<br>
     </td>
     <td>Segmentation Concepts<br>
       Segment Editor<br>
