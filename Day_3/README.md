@@ -6,7 +6,7 @@
 ### Morning Session
 **SLICERMORPH and Geometric Morphometrics** <br>
 9.30-10.00 Statistical Shape Analysis Concepts - Maga & Rolfe <br>
-10.00-11.00 Self-Paced GPA Tutorial in Breakout sessions. <br>
+10.00-12.00 Self-Paced GPA Tutorial in Breakout sessions. (Instructors will join back at 11) <br>
 * [Generalized Procrustes Analysis (GPA) in SlicerMorph Tutorial - Part 1](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_1)
 * [Generalized Procrustes Analysis (GPA) in SlicerMorph Tutorial - Part 2](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_2)
 
