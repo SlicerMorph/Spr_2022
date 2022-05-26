@@ -9,6 +9,7 @@
 
 **Arthur Porto: Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)** <br>
 **Chi Zhang: Multi-template ALPACA and K-means template selection**
+**Kelly Diamond: Putting it all together: Using 3D Slicer and SlicerMorph to quantify phenotypic variation**
 
 ### Tutorials
 * [ALPACA Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA#readme)
