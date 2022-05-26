@@ -3,10 +3,8 @@
 
 # Day 4 Contents
 
-**SLICERMORPH and Geometric Morphometrics  cont'ed**
- 
+## SLICERMORPH and Geometric Morphometrics  cont'ed**
 
-**SLICERMORPH and Geometric Morphometrics (Semi Landmarks) cont'ed**
 * [Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA#readme)
 * [Using ALPACA with multiple templates - Template Selection via K-means](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/K-means_templates_selection.md)
 * [Executing MALPACA](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/MALPACA.md)
@@ -14,3 +12,11 @@
 * [A sample analysis in R](https://github.com/SlicerMorph/Tutorials/blob/main/GPA_3/parser_and_sample_R_analysis.md)
 
 THese last two tutorials require access to R/Rstudio. It is available on the SlicerMorph cloud instances under **Applications->Development->Rstudio**
+
+## [Course Final Evaluation](https://docs.google.com/forms/d/e/1FAIpQLScgmWxw3HDQocwEIbTmHHTmxctwYWJJxIZd2xGWCZzlDsA6ZA/viewform?usp=sf_link) 
+
+## ODDS AND ENDS
+
+* Updating SlicerMorph (and other extensions)
+* How to report bugs / ask questions on the Slicer forum
+* 
