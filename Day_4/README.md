@@ -29,4 +29,4 @@ THese last two tutorials require access to R/Rstudio. It is available on the Sli
 
 * Updating SlicerMorph (and other extensions)
 * How to report bugs / ask questions on the Slicer forum
-* 
+* [How to clean surface scans in MeshLab by Terrie Simmons-Ehrhardt](https://github.com/terrielsimmons/Processing_Scans_in_Meshlab#readme)
