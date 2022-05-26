@@ -7,9 +7,10 @@
 
 ### Presentations: 
 
-**Arthur Porto: Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)**
+**Arthur Porto: Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)** <br>
 **Chi Zhang: Multi-template ALPACA and K-means template selection**
 
+### Tutorials
 * [ALPACA Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA#readme)
 * [MALPACA - Kmeans template selection tutorial](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/K-means_templates_selection.md)
 * [Executing MALPACA](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/MALPACA.md)
