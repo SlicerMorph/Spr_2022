@@ -16,10 +16,12 @@
 * [Executing MALPACA](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/MALPACA.md)
 * [Importing SlicerMorph data into R](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_3)
 * [A sample analysis in R](https://github.com/SlicerMorph/Tutorials/blob/main/GPA_3/parser_and_sample_R_analysis.md)
+
+THese last two tutorials require access to R/Rstudio. It is available on the SlicerMorph cloud instances under **Applications->Development->Rstudio**
+
 * Deep Learning Based Fetal Mice Segmentation.
 * [MonaiLabel Extension Demo](https://github.com/Project-MONAI/MONAILabel#readme)
 
-THese last two tutorials require access to R/Rstudio. It is available on the SlicerMorph cloud instances under **Applications->Development->Rstudio**
 
 ## [Course Final Evaluation](https://docs.google.com/forms/d/e/1FAIpQLScgmWxw3HDQocwEIbTmHHTmxctwYWJJxIZd2xGWCZzlDsA6ZA/viewform?usp=sf_link) 
 
