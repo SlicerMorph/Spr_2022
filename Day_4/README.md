@@ -11,6 +11,7 @@
 * [Importing SlicerMorph data into R](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_3)
 * [A sample analysis in R](https://github.com/SlicerMorph/Tutorials/blob/main/GPA_3/parser_and_sample_R_analysis.md)
 * Deep Learning Based Fetal Mice Segmentation.
+* [MonaiLabel Extension Demo](https://github.com/Project-MONAI/MONAILabel#readme)
 
 THese last two tutorials require access to R/Rstudio. It is available on the SlicerMorph cloud instances under **Applications->Development->Rstudio**
 
