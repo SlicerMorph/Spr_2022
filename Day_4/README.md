@@ -5,8 +5,13 @@
 
 ## SLICERMORPH and Geometric Morphometrics  cont'ed**
 
-* [Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA#readme)
-* [Using ALPACA with multiple templates - Template Selection via K-means](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/K-means_templates_selection.md)
+### Presentations: 
+
+**Arthur Porto: Automated landmarking through pointcloud alignment and correspondence analysis (ALPACA)**
+**Chi Zhang: Multi-template ALPACA and K-means template selection**
+
+* [ALPACA Tutorial](https://github.com/SlicerMorph/Tutorials/tree/main/ALPACA#readme)
+* [MALPACA - Kmeans template selection tutorial](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/K-means_templates_selection.md)
 * [Executing MALPACA](https://github.com/SlicerMorph/Tutorials/blob/main/MALPACA/MALPACA.md)
 * [Importing SlicerMorph data into R](https://github.com/SlicerMorph/Tutorials/tree/main/GPA_3)
 * [A sample analysis in R](https://github.com/SlicerMorph/Tutorials/blob/main/GPA_3/parser_and_sample_R_analysis.md)
